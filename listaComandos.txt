@@ -1,1 +1,2 @@
 git clone: Nos sirve para copiar o descargar una copia exacta de un repositorio remoto
+git commit: sirve para guardar nuestro archivo con  un pequeño nombre sobre lo que hacemos
