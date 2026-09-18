@@ -1,2 +1,5 @@
 git clone: Nos sirve para copiar o descargar una copia exacta de un repositorio remoto
 git commit: sirve para guardar nuestro archivo con  un pequeño nombre sobre lo que hacemos
+git push: nos ayuda a subir el archivo a nuestro repositorio
+git status: nos ayuda a comprobar si ah sido modificado o no nuestro archivo
+git add: nos ayuda a mover los archivos modificados al staging area
